@@ -2,7 +2,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace CopperTools.ScenesTransitioner
+namespace CopperTools.Scenes.Transitioner
 {
     public abstract class BaseTransition : ScriptableObject
     {

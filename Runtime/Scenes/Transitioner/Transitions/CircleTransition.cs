@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-namespace CopperTools.ScenesTransitioner
+namespace CopperTools.Scenes.Transitioner
 {
     [CreateAssetMenu(fileName = "Circle", menuName = "Data/Scene Transitions/Circle")]
     public class CircleTransition : BaseTransition

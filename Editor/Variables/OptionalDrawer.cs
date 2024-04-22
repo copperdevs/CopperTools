@@ -1,6 +1,8 @@
 using UnityEditor;
 using UnityEngine;
 
+// https://gist.github.com/INeatFreak/e01763f844336792ebe07c1cd1b6d018
+
 namespace CopperTools.Variables
 {
     [CustomPropertyDrawer(typeof(Optional<>))]

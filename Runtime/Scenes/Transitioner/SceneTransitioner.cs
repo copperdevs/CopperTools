@@ -4,7 +4,7 @@ using CopperTools.Utility;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace CopperTools.ScenesTransitioner
+namespace CopperTools.Scenes.Transitioner
 {
 
 [DisallowMultipleComponent]

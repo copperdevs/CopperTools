@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-namespace CopperTools.ScenesTransitioner
+namespace CopperTools.Scenes.Transitioner
 {
     [CreateAssetMenu(fileName = "Fade", menuName = "Data/Scene Transitions/Fade")]
     public class FadeTransition : BaseTransition

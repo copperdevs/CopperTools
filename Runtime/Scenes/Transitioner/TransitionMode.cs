@@ -1,4 +1,4 @@
-namespace CopperTools.ScenesTransitioner
+namespace CopperTools.Scenes.Transitioner
 {
     public enum TransitionMode
     {
