@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace CopperDevs.Tools.CopperTools.Runtime.Data
+namespace CopperTools.Data
 {
     [Serializable]
     public class CursorSettings
