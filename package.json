@@ -1,0 +1,22 @@
+{
+  "name": "com.copperdevs.tools",
+  "displayName": "CopperTools",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "license": "MIT",
+  "documentationUrl": "https://github.com/copperdevs/CopperTools",
+  "description": "Collection of common tools that I use in most of my projects",
+  "keywords": [
+    "tools",
+    "unity"
+  ],
+  "author": {
+    "name": "copperdevs",
+    "url": "https://github.com/copperdevs"
+  },
+  "category": "Unity",
+  "repository": {
+    "url": "https://github.com/copperdevs/CopperTools",
+    "type": "git"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CopperDevs.Tools.Editor",
+    "rootNamespace": "CopperDevs.Tools.Editor",
+    "references": ["GUID:45b28499b256ed545b6302a7fc91efea"],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
