@@ -9,10 +9,9 @@ namespace CopperTools.Editor.Attributes
     {
         public override void OnGUI(Rect position, SerializedProperty property, GUIContent label)
         {
-            using (new EditorGUI.DisabledScope())
-            {
-                EditorGUI.PropertyField(position, property, label);
-            }
+            EditorGUI.BeginDisabledGroup(true);
+            EditorGUI.PropertyField(position, property, label);
+            EditorGUI.EndDisabledGroup();
         }
     }
 }
