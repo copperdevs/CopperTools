@@ -1,8 +1,8 @@
-using CopperTools.Attributes;
+using CopperDevs.Tools.Attributes;
 using UnityEditor;
 using UnityEngine;
 
-namespace CopperTools.Editor.Attributes
+namespace CopperDevs.Tools.Editor.Attributes
 {
     [CustomPropertyDrawer(typeof(MinMaxSliderAttribute))]
     public class MinMaxSliderDrawer : PropertyDrawer

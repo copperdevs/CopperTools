@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace CopperTools.Variables
+namespace CopperDevs.Tools.Variables
 {
     public class ValueObject<T> : ScriptableObject
     {

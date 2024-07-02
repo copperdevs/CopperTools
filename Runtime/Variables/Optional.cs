@@ -3,7 +3,7 @@ using UnityEngine;
 
 // https://gist.github.com/INeatFreak/e01763f844336792ebe07c1cd1b6d018
 
-namespace CopperTools.Variables
+namespace CopperDevs.Tools.Variables
 {
     [Serializable]
     public struct Optional<T>

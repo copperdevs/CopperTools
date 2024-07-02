@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace CopperTools.Attributes
+namespace CopperDevs.Tools.Attributes
 {
     public class ReadOnlyAttribute : PropertyAttribute 
     {

@@ -1,5 +1,5 @@
 using System.Linq;
-using CopperTools.Scenes;
+using CopperDevs.Tools.Scenes;
 using UnityEngine;
 using Object = UnityEngine.Object;
 #if UNITY_EDITOR
@@ -9,7 +9,7 @@ using UnityEditor.VersionControl;
 
 // https://github.com/Tymski/SceneReference/blob/master/Scripts/SceneReference.cs
 
-namespace CopperTools.Editor.Scenes
+namespace CopperDevs.Tools.Editor.Scenes
 {
     [CustomPropertyDrawer(typeof(SceneReference))]
     public class SceneReferenceDrawer : PropertyDrawer

@@ -1,11 +1,13 @@
+using System;
 using UnityEngine;
 
-namespace CopperTools.Utility
+namespace CopperDevs.Tools.Utility
 {
     public class SingletonMonoBehaviour<T> : MonoBehaviour where T : MonoBehaviour
     {
         private static T instance;
 
+        // ReSharper disable once InconsistentNaming
         public static T Instance
         {
             get

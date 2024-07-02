@@ -1,10 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
-using CopperTools.Utility;
+using CopperDevs.Tools.Utility;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace CopperTools.Scenes.Transitioner
+namespace CopperDevs.Tools.Scenes.Transitioner
 {
 
 [DisallowMultipleComponent]

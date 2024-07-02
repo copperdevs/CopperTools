@@ -1,8 +1,8 @@
-using CopperTools.Attributes;
+using CopperDevs.Tools.Attributes;
 using UnityEditor;
 using UnityEngine;
 
-namespace CopperTools.Editor.Attributes
+namespace CopperDevs.Tools.Editor.Attributes
 {
     [CustomPropertyDrawer(typeof(HorizontalLineAttribute))]
     public class HorizontalLineDrawer : DecoratorDrawer

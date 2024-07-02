@@ -3,7 +3,7 @@ using UnityEngine;
 
 // https://gist.github.com/vantreeseba/c19c2387bac86047f30d7bec1e41a824
 
-namespace CopperTools.Variables
+namespace CopperDevs.Tools.Variables
 {
     [Serializable]
     public class Observable<T>

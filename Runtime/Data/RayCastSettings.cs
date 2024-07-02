@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace CopperTools.Data
+namespace CopperDevs.Tools.Data
 {
     [System.Serializable]
     public class RayCastSettings

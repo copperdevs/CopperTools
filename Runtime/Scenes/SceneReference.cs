@@ -9,7 +9,7 @@ using UnityEditor.SceneManagement;
 
 // https://github.com/Tymski/SceneReference/blob/master/Scripts/SceneReference.cs
 
-namespace CopperTools.Scenes
+namespace CopperDevs.Tools.Scenes
 {
     [Serializable]
     public class SceneReference : ISerializationCallbackReceiver

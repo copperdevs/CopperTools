@@ -1,9 +1,10 @@
+using CopperDevs.Tools.Variables;
 using UnityEditor;
 using UnityEngine;
 
 // https://gist.github.com/INeatFreak/e01763f844336792ebe07c1cd1b6d018
 
-namespace CopperTools.Variables
+namespace CopperDevs.Tools.Editor.Variables
 {
     [CustomPropertyDrawer(typeof(Optional<>))]
     public class OptionalDrawer : PropertyDrawer

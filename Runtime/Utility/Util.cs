@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Text.RegularExpressions;
 
-namespace CopperTools.Utility
+namespace CopperDevs.Tools.Utility
 {
     public static class Util
     {
