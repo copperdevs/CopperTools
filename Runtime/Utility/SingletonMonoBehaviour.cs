@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 namespace CopperDevs.Tools.Utility
@@ -22,6 +21,12 @@ namespace CopperDevs.Tools.Utility
 
                 return instance;
             }
+        }
+        
+        public static bool TryGetInstance(out T result)
+        {
+            result = instance;
+            return instance == null;
         }
     }
 }
